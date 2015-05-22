@@ -1,3 +1,6 @@
 [submodule "topic-explorer"]
 	path = topic-explorer
 	url = git@github.com:inpho/topic-explorer.git
+[submodule "vsm"]
+	path = vsm
+	url = git@github.com:inpho/vsm.git
