@@ -1,0 +1,3 @@
+[submodule "topic-explorer"]
+	path = topic-explorer
+	url = git@github.com:inpho/topic-explorer.git
