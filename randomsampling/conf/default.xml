@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<configuration>
+	<property>
+      	<name>htrc.random.locc</name>
+		<value>./conf/lcco.rdf</value>
+    </property>	  
+    <property>
+      	<name>htrc.random.volume.callno</name>
+		<!--  <value>./eng-QH-callno</value>  -->
+		<value>./eng-volume-callnumber.info</value>
+    </property>	     
+    
+    <!-- log4j property file -->
+    <property>
+		<name>log4j.properties.path</name>
+		<value>./conf/log4j.properties</value>
+    </property>     
+</configuration>
